@@ -20,7 +20,7 @@ p,button,a,li {
 
 #log{
     position: relative;
-    left:70%;
+    left:75%;
 }
 .p1{
     padding: 5% 10%;
